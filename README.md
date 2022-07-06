@@ -8,4 +8,4 @@ Skills demonstrated:
 HTML basic website building,
 Git commit,
 Starting a new project,
-Research and planning
+Research and planning.
