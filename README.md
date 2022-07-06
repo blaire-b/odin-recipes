@@ -5,8 +5,7 @@ It will have a main index page and links to different recipes.
 This project focuses on html only. Css will be added later. 
 
 Skills demonstrated: 
-HTML basic website building
-Git commit
-Starting a new project
+HTML basic website building,
+Git commit,
+Starting a new project,
 Research and planning
-
